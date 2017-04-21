@@ -1,0 +1,62 @@
+Prefijo =
+Prefijo =
+Prefijo =
+
+Sufijo =
+Sufijo =
+Sufijo =
+Correcto = Muy bien
+Correcto = Genial
+Correcto = La encontraste
+Correcto = Si
+
+Mal =No, intentá de nuevo
+Mal =Esta no es
+Mal =Parece que no
+Mal =Sigue buscando...
+
+Despedida = Muy bien, tu si que sabes\Muchas gracias por ayudarme!!
+
+[Facil]
+Pregunta = Cliquea sobre el Potasio(K)|Potasio|Es la letra K
+Pregunta = Cliquea sobre el Hierro(Fe)|Hierro|Es Fe
+Pregunta = Cliquea sobre el Cloro(Cl)|Cloro|Es Cl
+Pregunta = Cliquea sobre el Calcio(Ca)|Calcio|Es Ca
+Pregunta = Cliquea sobre el Plomo(Pb)|Plomo|Es Pb
+Pregunta = Cliquea sobre el Sodio(Na)|Sodio|Es Na
+Pregunta = Cliquea sobre el Oxigeno(O)|Oxigeno|Es la letra O
+Pregunta = Cliquea sobre el Hidrogeno(H)|Hidrogeno|Es la letra H
+Pregunta = Ciiquea sobre el Fluor(F)|Fluor|Es la lerta F
+Pregunta = Cliquea sobre el Cobre(Cu)|Cobre|Es Cu
+Pregunta = Cliquea sobre el Oro(Au)|Oro|Es Au
+Pregunta = Cliquea sobre el Helio(He)|Helio|Es He
+Pregunta = Cliquea sobre el Radio(Ra)|Radio|Es Ra
+Pregunta = Cliquea sobre la Plata(Ag)|Plata|Es Ag
+Pregunta = Cliquea sobre Yodo(I)|Yodo|Es la letra I
+Pregunta = Cliquea sobre el Hierro(Fe)|Hierro|Es Fe
+Pregunta = Cliquea sobre el Plomo(Pb)|Plomo|Es Pb
+Pregunta = Cliquea sobre el Magnesio(Mg)|Magnesio|Es Mg
+
+[Medio]
+Pregunta = Cliquea sobre el elemento\ que abunda en la banana|Potasio| K
+Pregunta = Que fijas en tu organismo\ consumiendo citrus despues de\ las lentejas|Hierro| Fe 
+Pregunta = Cliquea en uno de los elementos\ que componen la sal|Cloro| Cl
+Pregunta = Para fortalecer tus sistema\ oseo debes consumir alimentos\ con...|Calcio|Ca
+Pregunta = La plombemia es una enfermedad\ causada por demasiado¿...?\ En la sangre|Plomo|Pb
+Pregunta = Ademas del cloro hay otro\ elemento en la sal\ ¡Encuentralo!|Sodio|Na
+Pregunta = Los seres humanos (entre otros)\ necesitamos un gas para vivir.\ Se encuentra en el aire\ ¡Buscalo|Oxigeno|O
+Pregunta = ¿Cual es el elemento que\ abundaen el agua?|Hidrogeno|H
+Pregunta = Haz clic sobre el elemento\ que fortaleze tus dientes|Fluor|F
+Pregunta = Cliquea sobre el elemento que se\ encuentra generalmente en los\ cables de electricidad|Cobre|Cu
+Pregunta = ¿Cual es el elemento que extraen\ en el departamento de Rivera\ y otros?|Oro|Au
+Pregunta = En el sol hay un elemento\ muy nombrado, ¿cual es?|Helio|He
+Pregunta = Madame Curie utilizo un\ elemento para crear las\ radiografias ¿donde esta?|Radio|Ra
+Pregunta = Se conocen mas de 100\ elementos quimicos , pero\ solo algunos son importantes\ para la vida diaria\ cliquea sobre uno que\ consideres mas importante|Oxigeno|O
+Pregunta = Algunos elementos de esta\ tabla son metales,\ encuentra uno|Plata|Ag
+Pregunta = Entre los elementos no\ metales hay algunos solido\s, cliquea sobre uno|Yodo|I
+Pregunta = Un elemento que se\ halla en la manzana que\ le hace tomar el\ color marron al\ contacto con el aire(Mondada)|Hierro|Fe
+Pregunta = En la actualidad se elimino\ un elemento altamente\ contaminante para la vide\ que estaba incluido\ en la Nafta|Plomo|Pb
+Pregunta = Cliquea sobre el elemento\ mas abundante en\ el aire puro|Nitrogeno|N
+Pregunta = Cliquea sobre uno de\ los elementos del termometro|Mercurio|H
+Pregunta = ¿Cuál es el eleménto que\ se usa en el antiacido\ estomacal?, (es un metal)|Magnesio|Mg
+

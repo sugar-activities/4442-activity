@@ -1,0 +1,18 @@
+Autores: Rosamel Norma Ramirez, Christofer Roibal
+Idea: Alan Aguiar Schwyn (alanjas@hotmail.com)
+Este programa es software libre
+Por mas informacion visita http://ceibaljam.org o http://sugarlabs.org
+
+Conozco Elementos Quimicos: Rosamel Norma Ramirez (rosanor43@hotmail.com) 
+Christofer Roibal (yyaaeell@hotmail.com)
+zonas.txt y niveles.txt: Rosamel Norma Ramirez, Christofer Roibal
+Lamina: Graciela Perdomo, Natalia Pizolanti y Miriam Ramirez
+Lamina sacada del Libro de Ciencia Naturalesde sexto año del CEIP
+Terron CeibalJam: Alejandro Rodriguez Juele
+Presentacion: Christofer Roibal
+Imagen mago: Ana Cichero
+Programación: Gabriel Eirea
+
+Sonidos bajados de freesound.org: btn045.wav gentileza de junggle
+Fuentes bajadas de urbanfonts.com: AllCaps.ttf gentileza de 
+BobFrantic y Share-Regular.ttf gentileza de anónimo
